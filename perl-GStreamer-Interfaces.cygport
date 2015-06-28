@@ -2,7 +2,7 @@ inherit gtk2-perl
 
 NAME="perl-GStreamer-Interfaces"
 VERSION=0.06
-RELEASE=1
+RELEASE=2
 CATEGORY="Perl"
 SUMMARY="Perl bindings for the GStreamer-0.10 interface libraries"
 DESCRIPTION="Perl bindings for the GStreamer-0.10 multimedia framework"
